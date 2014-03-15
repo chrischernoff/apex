@@ -2,27 +2,39 @@
 layout: nil
 ---
 
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-
- <title>{{ site.title }}</title>
- <link href="{{ site.url }}/atom.xml" rel="self"/>
- <link href="{{ site.url }}/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
- <author>
-   <name>{{ site.author.name }}</name>
-   <email>{{ site.author.email }}</email>
- </author>
-
- {% for post in site.posts %}
- <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
- </entry>
- {% endfor %}
-
-</feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+<channel>
+    <title>{{ site.title }}</title>
+    <itunes:author>Chris Chernoff &amp; Brian Williams</itunes:author>
+    <link>http://www.redline.fm</link>
+    <itunes:subtitle>{{ site.description }}</itunes:subtitle>
+    <itunes:summary>Chris Chernoff and Brian Williams offer their thoughts on the teams, drivers, and tech that go into each and every Formula 1 race.</itunes:summary>
+    <language>en-us</language>
+    <copyright>2014 by Chris Chernoff &amp; Brian Williams</copyright>
+    <itunes:owner>
+        <itunes:name>Chris Chernoff &amp; Brian Williams</itunes:name>
+        <itunes:email>chris@burnedpixel.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://www.redline.fm/podcast.jpg" />
+    <itunes:category text="Sports &amp; Recreation">
+        <itunes:category text="Sports &amp; Recreation - Professional"/>
+    </itunes:category>
+    {% for post in site.posts %}
+    <item>
+        <title>{{ post.title }}</title>
+        <itunes:author>Chris Chernoff &amp; Brian Williams</itunes:author>
+        <itunes:subtitle>{{ post.subtitle }}</itunes:subtitle>
+        <itunes:summary>Here I'll put a bulleted list of stuff.</itunes:summary>
+        <enclosure url="{{ post.audio }}" length="{{ post.size }}" type="audio/x-m4a}}" />
+        <pubDate>Sat, 15 Mar 2009 03:20:00 PST</pubDate>
+        <itunes:category text="Sports &amp; Recreation">
+            <itunes:category text="Sports &amp; Recreation - Professional"/>
+        </itunes:category>
+        <itunes:duration>01:20:19</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:keywords>F1, Formula 1, Formula One, Racing</itunes:keywords>
+    </item>
+    {% endfor %}
+</channel>
+</rss>
