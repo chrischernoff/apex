@@ -16,7 +16,7 @@ layout: nil
         <itunes:name>Chris Chernoff &amp; Brian Williams</itunes:name>
         <itunes:email>chris@burnedpixel.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://www.redline.fm/podcast.jpg" />
+    <itunes:image href="{{ site.url }}public/img/logo.png" />
     <itunes:category text="Sports &amp; Recreation">
         <itunes:category text="Sports &amp; Recreation - Professional"/>
     </itunes:category>
@@ -24,8 +24,8 @@ layout: nil
     <item>
         <title>{{ post.title }}</title>
         <itunes:author>Chris Chernoff &amp; Brian Williams</itunes:author>
-        <itunes:subtitle>{{ post.subtitle }}</itunes:subtitle>
-        <itunes:summary>{{ post.content | split: '<!-- more -->' | first }}</itunes:summary>
+        <itunes:summary>{{ post.summary }}</itunes:summary>
+        <description><![CDATA[{{ post.content | split: '<!-- more -->' | first }}]]></description>
         <enclosure url="{{ post.audio }}" length="{{ post.size }}" type="audio/x-m4a}}" />
         <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
         <itunes:category text="Sports &amp; Recreation">
