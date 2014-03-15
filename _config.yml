@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://www.huex.com
+title:            Redline.FM
+tagline:          'A Formula 1 podcast discussing Formula 1 and other forms of racing'
+description:      'Hosts <a href="http://www.twitter.com/brian_williams" target="_blank">Brian Williams</a> and <a href="https://twitter.com/burnedpixel" target="_blank">Chris Chernoff</a> discuss the pinnacle of motor racing: Formula 1'
+url:              http://www.redline.fm
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Chris Chernoff'
+  url:            https://twitter.com/burnedpixel	
 
 paginate:         5
 
@@ -21,6 +21,6 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           https://github.com/chrischernoff/apex
+  repo:           https://github.com/redlinefm/redlinefm
 
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
