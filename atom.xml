@@ -25,9 +25,9 @@ layout: nil
         <title>{{ post.title }}</title>
         <itunes:author>Chris Chernoff &amp; Brian Williams</itunes:author>
         <itunes:subtitle>{{ post.subtitle }}</itunes:subtitle>
-        <itunes:summary>Here I'll put a bulleted list of stuff.</itunes:summary>
+        <itunes:summary>{{ post.content | split: '<!-- more -->' | first }}</itunes:summary>
         <enclosure url="{{ post.audio }}" length="{{ post.size }}" type="audio/x-m4a}}" />
-        <pubDate>Sat, 15 Mar 2009 03:20:00 PST</pubDate>
+        <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
         <itunes:category text="Sports &amp; Recreation">
             <itunes:category text="Sports &amp; Recreation - Professional"/>
         </itunes:category>
