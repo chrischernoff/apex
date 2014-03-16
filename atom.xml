@@ -6,10 +6,10 @@ layout: nil
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
 <channel>
     <title>{{ site.title }}</title>
-    <itunes:author>Chris Chernoff &amp; Brian Williams</itunes:author>
-    <link>http://www.redline.fm</link>
-    <itunes:subtitle>{{ site.description }}</itunes:subtitle>
-    <itunes:summary>Chris Chernoff and Brian Williams offer their thoughts on the teams, drivers, and tech that go into each and every Formula 1 race.</itunes:summary>
+    <itunes:author>Chris Chernoff and Brian Williams</itunes:author>
+    <link>{{ site.url }}</link>
+    <itunes:subtitle>{{ site.tagline }}</itunes:subtitle>
+    <itunes:summary>{{ site.description }}</itunes:summary>
     <language>en-us</language>
     <copyright>2014 by Chris Chernoff &amp; Brian Williams</copyright>
     <itunes:owner>
@@ -31,9 +31,9 @@ layout: nil
         <itunes:category text="Sports &amp; Recreation">
             <itunes:category text="Sports &amp; Recreation - Professional"/>
         </itunes:category>
-        <itunes:duration>01:20:19</itunes:duration>
+        <itunes:duration>{{ post.duration }}</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:keywords>F1, Formula 1, Formula One, Racing</itunes:keywords>
+        <itunes:keywords>{{ site.keywords }}</itunes:keywords>
     </item>
     {% endfor %}
 </channel>

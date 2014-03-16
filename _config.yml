@@ -8,8 +8,10 @@ permalink:        pretty
 # Setup
 title:            Redline.FM
 tagline:          'A podcast discussing Formula 1 and all things racing.'
-description:      'Featuring <a href="http://www.twitter.com/brian_williams" target="_blank">Brian Williams</a> and <a href="https://twitter.com/burnedpixel" target="_blank">Chris Chernoff</a>'
+description:      '<a href="https://twitter.com/burnedpixel" target="_blank">Chris Chernoff</a> and <a href="http://www.twitter.com/brian_williams" target="_blank">Brian Williams</a> offer their thoughts on the teams, drivers, tech, and latest news for each Formula 1 race.'
+
 url:              http://www.redline.fm/
+keywords:		  'F1, Formula 1, Formula One, Racing'
 
 author:
   name:           'Chris Chernoff'
