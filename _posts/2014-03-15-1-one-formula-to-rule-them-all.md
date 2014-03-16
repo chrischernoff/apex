@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1 - Everything but the kitchen sink
+title: 1 - One formula to rule them all
 summary: Introductions, 2014 Rule Changes, Driver Lineups, Schedule Adjustments, and Season Predictions.
 audio: https://dl.dropboxusercontent.com/u/5213216/redlinefm/redlinefm_ep1.mp3
 size: 29179902
