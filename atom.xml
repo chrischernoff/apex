@@ -9,7 +9,7 @@ layout: nil
     <itunes:author>Chris Chernoff and Brian Williams</itunes:author>
     <link>{{ site.url }}</link>
     <itunes:subtitle>{{ site.tagline }}</itunes:subtitle>
-    <itunes:summary>{{ site.description }}</itunes:summary>
+    <itunes:summary>{{ site.feed_description }}</itunes:summary>
     <language>en-us</language>
     <copyright>2014 by Chris Chernoff &amp; Brian Williams</copyright>
     <itunes:owner>
