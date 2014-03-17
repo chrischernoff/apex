@@ -2,19 +2,19 @@
 layout: post
 title: 1 - One formula to rule them all
 summary: Introductions, 2014 Rule Changes, Driver Lineups, Schedule Adjustments, and Season Predictions.
-audio: https://dl.dropboxusercontent.com/u/5213216/redlinefm/redlinefm_ep1.mp3
-size: 29179902
-duration: "01:20:19"
+audio: http://traffic.libsyn.com/redlinefm/episode_1.mp3
+size: 28830072
+duration: "01:18:51"
 ---
 
-## Test h2
-
-* This thing happened
-* so did [this](http://www.apple.com) one 
-* and this
+* Chris and Brian introduce themselves
+* Rule Changes for 2014 
+* Driver Lineups
+* Season Schedule
+* Predictions
 
 <!-- more --> 
 
-<audio src="https://dl.dropboxusercontent.com/u/5213216/redlinefm/redlinefm_ep1.mp3" preload="none" />
+<audio src="http://traffic.libsyn.com/redlinefm/episode_1.mp3" preload="none" />
 
-[Download MP3](https://dl.dropboxusercontent.com/u/5213216/redlinefm/redlinefm_ep1.mp3)
+[Download MP3](http://traffic.libsyn.com/redlinefm/episode_1.mp3)
