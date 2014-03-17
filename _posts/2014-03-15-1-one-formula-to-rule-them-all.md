@@ -8,7 +8,7 @@ duration: "01:18:51"
 ---
 
 * Chris and Brian introduce themselves
-* Rule Changes for 2014 
+* Rule Changes for the 2014 Formula 1 season 
 * Driver Lineups
 * Season Schedule
 * Predictions
