@@ -6,8 +6,8 @@ layout: nil
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
     <atom:link href="http://redline.fm/atom.xml" rel="self" type="application/rss+xml" />
-    <title>{{ site.title }}</title>
-    <link>{{ site.url }}</link>
+    <title>{{ site.title }} - Formula 1</title>
+    <link>{{ site.url }}/?</link>
     <description>{{ site.feed_description}}</description>
     <language>en-us</language>
     <itunes:subtitle>{{ site.tagline }}</itunes:subtitle>
