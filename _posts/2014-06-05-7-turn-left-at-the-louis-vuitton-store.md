@@ -8,9 +8,10 @@ duration: "01:02:13"
 ---
 
 * Spanish Grand Prix Recap
-* Rosberg's qualifying "accident"
-* More gremlins for Vettel
-* Mercedes drivers getting more adversarial
+  * Rosberg's qualifying "accident"
+  * More gremlins for Vettel
+  * Mercedes drivers getting more adversarial
+  * Strong runs from mid-pack teams, and Marussia's first points!
 * Our favorite parts of Monaco circuit
 * Talkin' some [Tilke](http://en.wikipedia.org/wiki/Hermann_Tilke#List_of_circuits)
 
