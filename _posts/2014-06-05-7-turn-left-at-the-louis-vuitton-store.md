@@ -8,10 +8,11 @@ duration: "01:02:13"
 ---
 
 * Spanish Grand Prix Recap
-  * Rosberg's qualifying "accident" 
+* Rosberg's qualifying "accident"
+* More gremlins for Vettel
 * Mercedes drivers getting more adversarial
-* Our favorite parts of Monaco track
-* [Tilke's Tons of Tracks](http://en.wikipedia.org/wiki/Hermann_Tilke#List_of_circuits)
+* Our favorite parts of Monaco circuit
+* Talkin' some [Tilke](http://en.wikipedia.org/wiki/Hermann_Tilke#List_of_circuits)
 
 <!-- more --> 
 
