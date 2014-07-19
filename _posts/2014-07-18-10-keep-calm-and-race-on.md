@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 - Keep Calm and Race On
-summary: British GP Recap, Rule Changes, Silly Season Talk
+summary: British GP Recap, Rule Changes, More Silly Season Talk
 audio: http://traffic.libsyn.com/redlinefm/s01e10_britain.mp3
 size: 40352869
 duration: "01:07:40"
