@@ -13,7 +13,7 @@ duration: "NEEEDSIZE"
   * Magnussen on the "hot" seat, Kvyat "parched"
   * Perez [loses a wing](https://www.youtube.com/watch?v=-ImFV2UbrO0)
   * Strong showings from Red Bull
-  * Incredible late race push from Vergne despite penalties
+  * Incredible [late race push](https://www.youtube.com/watch?v=jYkyw1n4MzE) from Vergne despite penalties
   * Hamilton returns to the championship lead
 * FIA warning teams about future restrictions on "Driver Coaching"
 * Driver weight limits
