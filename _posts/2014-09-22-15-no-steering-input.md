@@ -8,8 +8,8 @@ duration: "01:20:15"
 ---
 
 * Singapore Grand Prix Recap
-  * Ferrari impressive pace heading into qualifying
-  * Rosberg electrical issues lead to retirement
+  * Ferrari's impressive pace heading into qualifying
+  * Rosberg's electrical issues lead to retirement
   * Magnussen on the "hot" seat, Kvyat "parched"
   * Perez [loses a wing](https://www.youtube.com/watch?v=-ImFV2UbrO0)
   * Strong showings from Red Bull
