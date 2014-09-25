@@ -2,9 +2,9 @@
 layout: post
 title: 15 - No Steering Input
 summary: Singapore GP Recap
-audio: #####NEEDURL####
-size: #####NEEDSIZE
-duration: "NEEEDSIZE"
+audio: http://traffic.libsyn.com/redlinefm/s01e15_singapore.mp3
+size: 47136900
+duration: "01:20:15"
 ---
 
 * Singapore Grand Prix Recap
@@ -21,6 +21,6 @@ duration: "NEEEDSIZE"
 
 <!-- more -->
 
-<audio src="#####NEEDURL" preload="none" />
+<audio src="http://traffic.libsyn.com/redlinefm/s01e15_singapore.mp3" preload="none" />
 
-[Download MP3](####NEED URL)
+[Download MP3](http://traffic.libsyn.com/redlinefm/s01e15_singapore.mp3)
