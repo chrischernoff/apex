@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 19 - NEED TITILE
+title: 19 - Where is your girlfriend?
 summary: Brazilian GP Recap
 audio: http://traffic.libsyn.com/redlinefm/s01e19_brazil.mp3
 size: 30602014
