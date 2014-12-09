@@ -2,7 +2,7 @@
 layout: post
 title: 20 - There Can Only Be One
 summary: Abu Dhabi GP Recap
-audio: http://traffic.libsyn.com/redlinefm/s01e20_abu_dhabi_v2.mp3
+audio: http://traffic.libsyn.com/redlinefm/s01e20_abu_dhabi_v2a.mp3
 size: 37197355
 duration: "01:02:33"
 ---
@@ -23,6 +23,6 @@ duration: "01:02:33"
 
 <!-- more -->
 
-<audio src="http://traffic.libsyn.com/redlinefm/s01e20_abu_dhabi_v2.mp3" preload="none" />
+<audio src="http://traffic.libsyn.com/redlinefm/s01e20_abu_dhabi_v2a.mp3" preload="none" />
 
-[Download MP3](http://traffic.libsyn.com/redlinefm/s01e20_abu_dhabi_v2.mp3)
+[Download MP3](http://traffic.libsyn.com/redlinefm/s01e20_abu_dhabi_v2a.mp3)
