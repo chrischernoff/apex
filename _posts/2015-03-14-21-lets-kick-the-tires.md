@@ -8,20 +8,20 @@ duration: "01:20:49"
 ---
 
 * Team & driver lineups
-** Honda's return
-** Ferrari's superstar lineup
-** Alonso's early scare with McLaren
-** Lotus' switch from Renault to Mercedes power plants
-** The mess Sauber has made
-** HAAS F1 on schedule for 2016
+ * Honda's return
+ * Ferrari's superstar lineup
+ * Alonso's early scare with McLaren
+ * Lotus' switch from Renault to Mercedes power plants
+ * The mess Sauber has made
+ * HAAS F1 on schedule for 2016
 * Race Schedule
-** Mexico is in!
+ * Mexico is in!
 * Rules Changes
-** Tighter (but more nuanced) power unit restrictions
-** Grid place penalty adjustments
-** Virtual Safety Car
-** Slow grid clearing
-** Helmet design limit
+ * Tighter (but more nuanced) power unit restrictions
+ * Grid place penalty adjustments
+ * Virtual Safety Car
+ * Slow grid clearing
+ * Helmet design limit
 
 <!-- more -->
 
