@@ -12,7 +12,7 @@ duration: "01:02:29"
  * Rookie drivers living up to their billing
  * Mercedes' huge pace advantage
 * So many missing cars from the grid
- * Manor GP no-show
+ * Manor no-show
  * Bottas' bad back
  * Magnussen and Kvyat fail before lights go out
 * Another day, another Maldonado crash 
