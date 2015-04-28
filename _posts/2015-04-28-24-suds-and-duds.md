@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 24 - China
+title: 24 - Suds & Duds
 summary: Chinese GP Recap
-audio: http://traffic.libsyn.com/redlinefm/s02e03_malaysia.mp3
-size: 43182054
-duration: "01:12:14"
+audio: http://traffic.libsyn.com/redlinefm/s02e04_china.mp3
+size: 17804160
+duration: "00:29:10"
 ---
 
 * Maldonado off to a great start...then it fell apart
@@ -17,6 +17,6 @@ duration: "01:12:14"
 
 <!-- more -->
 
-<audio src="http://traffic.libsyn.com/redlinefm/s02e03_malaysia.mp3" preload="none" />
+<audio src="http://traffic.libsyn.com/redlinefm/s02e04_china.mp3" preload="none" />
 
-[Download MP3](http://traffic.libsyn.com/redlinefm/s02e03_malaysia.mp3)
+[Download MP3](http://traffic.libsyn.com/redlinefm/s02e04_china.mp3)
