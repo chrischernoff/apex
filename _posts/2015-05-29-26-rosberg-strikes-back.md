@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 26 - Spain
+title: 26 - Rosberg Strikes Back
 summary: Spanish GP Recap
 audio: http://traffic.libsyn.com/redlinefm/s02e06_spain.mp3
 size: 5021991
