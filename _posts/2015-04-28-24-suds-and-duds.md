@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 24 - Suds & Duds
+title: 24 - Suds and Duds
 summary: Chinese GP Recap
 audio: http://traffic.libsyn.com/redlinefm/s02e04_china.mp3
 size: 17804160
