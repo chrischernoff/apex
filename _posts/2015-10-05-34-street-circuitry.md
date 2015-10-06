@@ -2,7 +2,7 @@
 layout: post
 title: 34 - Street Circuitry
 summary: Singapore GP Recap
-audio: http://traffic.libsyn.com/redlinefm/s02e13_italy.mp3
+audio: http://traffic.libsyn.com/redlinefm/s02e14_singapore.mp3
 size: 27343474
 duration: "00:48:48"
 ---
@@ -23,6 +23,6 @@ duration: "00:48:48"
 
 <!-- more -->
 
-<audio src="http://traffic.libsyn.com/redlinefm/s02e12_belgium.mp3" preload="none" />
+<audio src="http://traffic.libsyn.com/redlinefm/s02e14_singapore.mp3" preload="none" />
 
-[Download MP3](http://traffic.libsyn.com/redlinefm/s02e12_belgium.mp3)
+[Download MP3](http://traffic.libsyn.com/redlinefm/s02e14_singapore.mp3)
